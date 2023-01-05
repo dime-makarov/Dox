@@ -14,7 +14,7 @@ I’m a software and solution developer with the focus on .NET and related techn
 
 ## Skills
 
-|  |  |
+| Area | Skills |
 | --- | --- |
 | Languages | C#, Visual Basic .NET, C/C++, Go |
 | Frameworks | .NET Framework, .NET Core, ASP.NET (MVC/WebAPI/WebForms) |
