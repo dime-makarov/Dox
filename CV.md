@@ -34,7 +34,7 @@ I’m a software and solution developer with the focus on .NET and related techn
 
 ## Work experience
 
-### Spotware Systems Ltd
+### [Spotware Systems Ltd](https://spotware.com)
 Senior Software Developer<br />Limassol, Cyprus<br />March 2021 – now
 
 Spotware is a fintech company. The [cTrader](https://ctrader.com) is Spotware’s flagship trading platform solution. I work in the cTrader Desktop (Windows) development team.
