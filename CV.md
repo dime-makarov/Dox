@@ -1,11 +1,11 @@
 # Dmitrii Makarov
 
-**Email**: to.dime@gmail.com  
-**LinkedIn**: https://www.linkedin.com/in/dimemakarov  
-**Telegram**: @dimemakarov  
-**Location**: Limassol, Cyprus  
-**Date of birth**: 24 April 1984  
-**Languages**: Russian (native), English (intermediate)  
+**Email**: to.dime@gmail.com<br />
+**LinkedIn**: https://www.linkedin.com/in/dimemakarov<br />
+**Telegram**: [@dimemakarov](https://t.me/dimemakarov)<br />
+**Location**: Limassol, Cyprus<br />
+**Date of birth**: 24 April 1984<br />
+**Languages**: Russian (native), English (intermediate)<br />
 **Education**: Kazan State Technical University named after A. N. Tupolev (graduated in 2007)
 
 ## Summary
