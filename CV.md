@@ -15,13 +15,11 @@ I’m a software and solution developer with focus on .NET and related technolog
 ## Work experience
 
 ### Senior Software Developer at [**Spotware Systems Ltd**](https://spotware.com)
-Limassol, Cyprus
-<br />
-March 2021 – now
+<sup>March 2021 – now, Limassol, Cyprus</sup>
 
 **The cTrader trading platform** [https://ctrader.com]
 <br />
-(*C#, .NET Core, WPF, NET Framework, TDD*)
+<sup>(*C#, .NET Core, WPF, NET Framework, TDD*)</sup>
 
 * Design and development of new features
 * Bug fixing
@@ -30,13 +28,11 @@ March 2021 – now
 
 ---
 ### Senior Software Developer at [**GDC**](https://gdc-services.com/) (Fujitsu preferred supplier of services)
-Kazan, Russia
-<br />
-October 2013 – March 2021
+<sup>October 2013 – March 2021, Kazan, Russia</sup>
 
 **Retail POS (Point of Sale, Cashier workplace) solution modification**
 <br />
-(*C#, Visual Basic .NET, WPF, WCF, MSMQ, Windows Services, MS SQL Server*)
+<sup>(*C#, Visual Basic .NET, WPF, WCF, MSMQ, Windows Services, MS SQL Server*)</sup>
 
 * The old POS solution is redesigned, turned into a service-oriented architecture (SOA), and rewritten using the C# language
 * Implemented a few customizations for customers (hardware support and integration, custom payment types and discounts, custom loyalty programs, integration with third-party loyalty providers)
@@ -44,7 +40,7 @@ October 2013 – March 2021
 
 **MVP of mobile POS**
 <br />
-(*C#, ASP.NET Web API, Android, Xamarin Forms, FreshMvvm*)
+<sup>(*C#, ASP.NET Web API, Android, Xamarin Forms, FreshMvvm*)</sup>
 
 * Acquired a knowledge about Xamarin platform
 * Implemented Web API adapters for existing WCF infrastructure
@@ -52,14 +48,14 @@ October 2013 – March 2021
 
 **MVP of Self-Checkout terminal (based on modified POS)**
 <br />
-(*React, Electron*)
+<sup>(*React, Electron*)</sup>
 
 * Acquired a knowledge about React library and Redux
 * An MVP is implemented (previously implemented Web API adapters are reused)
 
 **Device control system for a federal holding company**
 <br />
-(*C#, ASP.NET Web API, Entity Framework Core, MS SQL Server, Windows Driver Kit*)
+<sup>(*C#, ASP.NET Web API, Entity Framework Core, MS SQL Server, Windows Driver Kit*)</sup>
 
 The business task is to apply policies of external devices usage (printers, USB drives, etc.) to computers of the company. The system should provide flexible set of rules: allow/prohibit devices by device type, user role/group, etc.
 
@@ -68,27 +64,25 @@ The business task is to apply policies of external devices usage (printers, USB 
 
 **Maintaining of a medications supplier’s order system**
 <br />
-(*C#, BizTalk*)
+<sup>(*C#, BizTalk*)</sup>
 
 * Acquired a knowledge about BizTalk specific development
 * Implemented a few integrations with newly attracted pharmacies
 
 ---
 ### Software Developer at [**Avintec LLC**](https://avintec.ru/)
-Kazan, Russia
-<br />
-February 2013 – October 2013
+<sup>February 2013 – October 2013, Kazan, Russia</sup>
 
 **Terminal for collecting feedback from clinic patients**
 <br />
-(*C#, Mono, GtkSharp, SQLite*)
+<sup>(*C#, Mono, GtkSharp, SQLite*)</sup>
 
 * Acquired a knowledge about MonoDevelop IDE and GtkSharp GUI Toolkit. Learned how to customize GtkSharp controls
 * A prototype is implemented and tested on real hardware
 
 **Integration of Core banking system (CBS) with Oktell telephony platform** [https://oktell.ru]
 <br />
-(*C#, .NET 2.0, ASP.NET MVC*)
+<sup>(*C#, .NET 2.0, ASP.NET MVC*)</sup>
 
 * An external .NET-module for Oktell is implemented and injected in the caller’s workflow
 * Implemented a mediator web service between the external Oktell module and CBS
@@ -96,13 +90,11 @@ February 2013 – October 2013
 
 ---
 ### Software Developer at **Interface LLC**
-Kazan, Russia
-<br />
-November 2011 – February 2013
+<sup>November 2011 – February 2013, Kazan, Russia</sup>
 
 **Accounting system for the State Inspectorate of Road Traffic Safety**
 <br />
-(*C#, ASP.NET Web Forms, Windows Forms, Oracle Database*)
+<sup>(*C#, ASP.NET Web Forms, Windows Forms, Oracle Database*)</sup>
 
 The system is designed and implemented from scratch, deployed in the Inspectorate’s data center.
 
@@ -113,26 +105,22 @@ Main functionalities:
 
 ---
 ### Software Developer at [**Mirrico LLC**](https://mirrico.ru/)
-Kazan, Russia
-<br />
-June 2011 – November 2011
+<sup>June 2011 – November 2011, Kazan, Russia</sup>
 
 **Oil pipelines monitoring system**
 <br />
-(*C, C++, C#, ASP.NET Web Forms, SQL Server*)
+<sup>(*C, C++, C#, ASP.NET Web Forms, SQL Server*)</sup>
 
 * Hardware equipment is selected and integrated with each other (sensors, controllers, GSM modules, etc.)
 * Debug and test environment is built
 
 ---
 ### Developer at **Experimental Design Bureau named after M. P. Simonov** (ex. SOKOL)
-Kazan, Russia
-<br />
-September 2005 – May 2011
+<sup>September 2005 – May 2011, Kazan, Russia</sup>
 
 **Unmanned aircraft vehicle modification**
 <br />
-(*C, C++, WinForms*)
+<sup>(*C, C++, WinForms*)</sup>
 
 * The old analog control system is redesigned and implemented using digital components
 * Implemented communication protocol between onboard sub-systems via COM port
