@@ -10,91 +10,146 @@
 
 ## Summary
 
-I’m a software and solution developer with the focus on .NET and related technologies. Have 10+ years of experience in the IT industry. Familiar with every stage of the software development life cycle: design, coding, debugging, testing and maintenance. Confident team player. Able to act as a mentor and a technical expert for interns, junior software developers and support staff.
-
-## Skills
-
-| Area | Skills |
-| --- | --- |
-| Languages | C#, Visual Basic .NET, C/C++, Go |
-| Frameworks | .NET Framework, .NET Core, ASP.NET (MVC/WebAPI/WebForms) |
-| UI/Frontend | WPF, Windows Forms, Razor, HTML, CSS, jQuery |
-| Communication | WCF, Protobuf, HTTP, MSMQ, TCP/IP |
-| IoC | Autofac |
-| Databases | SQL Server, SQLite, Entity Framework, ADO.NET |
-| Environment | Visual Studio, Rider, Git, TFS, YouTrack, Redmine, JIRA |
-| Processes | SCRUM, Test-Driven Development |
-| Other | WiX installer, SNIP code generator, BizTalk |
-
-## Exams and certifications
-
-* Microsoft Exam 70-483: Programming in C#
-* Course 20487: Developing Windows Azure and Web Service
-* Course 10263A: Developing WCF Solution with MS Visual Studio 2010
+I’m a software and solution developer with focus on .NET and related technologies. Have 15+ years of experience in IT industry. Familiar with every stage of a software development life cycle: collection of requirements, architecture design, coding, testing, debugging and maintenance. Able to act as a mentor and technical expert for interns, junior software developers and support staff.
 
 ## Work experience
 
-### [Spotware Systems Ltd](https://spotware.com)
-Senior Software Developer<br />Limassol, Cyprus<br />March 2021 – now
+### Senior Software Developer at [**Spotware Systems Ltd**](https://spotware.com)
+Limassol, Cyprus
+<br />
+March 2021 – now
 
-Spotware is a fintech company. The [cTrader](https://ctrader.com) is Spotware’s flagship trading platform solution. I work in the cTrader Desktop (Windows) development team.
+**The cTrader trading platform** [https://ctrader.com]
+<br />
+(*C#, .NET Core, WPF, NET Framework, TDD*)
 
-**Roles**: Software developer, Technical interviewer, Mentor<br />
-**Technologies**: C#, WPF, .NET 6, .NET Framework, TDD
+* Design and development of new features
+* Bug fixing
+* Conduct technical interviews
+* Onboarding, mentoring
 
-Things done:
-* Increased a reusability of a code by extracting some code parts into NuGet packages
-* Decreased an amount of a leaking memory
-* Done some UI improvements
+---
+### Senior Software Developer at [**GDC**](https://gdc-services.com/) (Fujitsu preferred supplier of services)
+Kazan, Russia
+<br />
+October 2013 – March 2021
 
-### [GDC](https://gdc-services.com/)
-Lead Software Developer<br />Kazan, Russia<br />October 2013 – March 2021
+**Retail POS (Point of Sale, Cashier workplace) solution modification**
+<br />
+(*C#, Visual Basic .NET, WPF, WCF, MSMQ, Windows Services, MS SQL Server*)
 
-GDC is a preferred supplier of services for Fujitsu. It is a large company with more than 1000 employees. My main specialization was a Retail POS software and accompanying tools. I worked as a part of Fujitsu North America team.
+* The old POS solution is redesigned, turned into a service-oriented architecture (SOA), and rewritten using the C# language
+* Implemented a few customizations for customers (hardware support and integration, custom payment types and discounts, custom loyalty programs, integration with third-party loyalty providers)
+* Modified POS is rolled out in stores of a few international retailers in Japan and Europe
 
-**Roles**: Software developer, Analyst, Technical interviewer, Mentor<br />
-**Technologies**: C#, Visual Basic, WPF, WCF, MSMQ, Windows Services
+**MVP of mobile POS**
+<br />
+(*C#, ASP.NET Web API, Android, Xamarin Forms, FreshMvvm*)
 
-Things done:
-* An old POS solution is rewritten using the C# language and the service-oriented architecture (SOA)
-* Implemented a customization layer of the new POS for an international fashion retailer:
-  * custom payment types (including a hardware support and an integration)
-  * custom loyalty programs (including an integration with 3rd-party loyalty providers)
-  * custom discounts
-  * custom cashier workflows
-* Customized new POS is installed in more than 100 stores in Japan (also started a rolling out in some European countries)
+* Acquired a knowledge about Xamarin platform
+* Implemented Web API adapters for existing WCF infrastructure
+* An MVP is implemented and tested on real devices
 
-Side projects:
-* Implemented an MVP of the mobile POS (Xamarin Forms, FreshMvvm)
-* Implemented an MVP of the Self-Checkout terminal (React/Redux, Electron)
+**MVP of Self-Checkout terminal (based on modified POS)**
+<br />
+(*React, Electron*)
 
-### [Avintec LLC](https://avintec.ru/)
-Software Developer<br />Kazan, Russia<br />February 2013 – October 2013
+* Acquired a knowledge about React library and Redux
+* An MVP is implemented (previously implemented Web API adapters are reused)
 
-Avintec is a small outsource company. There were done a bunch of small- and middle-size projects based on .NET Framework platform.
+**Device control system for a federal holding company**
+<br />
+(*C#, ASP.NET Web API, Entity Framework Core, MS SQL Server, Windows Driver Kit*)
 
-Some of them:
-* POS terminals for gathering a patients’ feedback about a clinic’s medical personnel
-(C#, Mono, GtkSharp, SQLite).
-* Integration of an internal IT-system of one of the local banks with the [Oktell](https://oktell.ru) communication platform (C#, .NET 2.0).
-* Change requests for the [VisualCron](https://www.visualcron.com) scheduler (Visual Basic .NET, Windows Forms, ASP.NET Web Forms).
+The business task is to apply policies of external devices usage (printers, USB drives, etc.) to computers of the company. The system should provide flexible set of rules: allow/prohibit devices by device type, user role/group, etc.
 
-### Interface LLC
-Software Developer<br />Kazan, Russia<br />November 2011 – February 2013
+* Acquired a knowledge about Windows drivers development
+* Demo version of the system is designed using Client-Server architecture and implemented
 
-Interface is a company mostly engaged in a development of different accounting systems for government related organizations. I worked on the project for State Inspectorate of Road Traffic Safety.
+**Maintaining of a medications supplier’s order system**
+<br />
+(*C#, BizTalk*)
 
-**Roles**: Software developer, Analyst, Deployment engineer, End-user consultant<br />
-**Technologies**: C#, ASP.NET Web Forms, Windows Forms, Oracle Database
+* Acquired a knowledge about BizTalk specific development
+* Implemented a few integrations with newly attracted pharmacies
 
-### [Mirrico LLC](https://mirrico.ru/)
-Software Developer<br />Kazan, Russia<br />June 2011 – November 2011
+---
+### Software Developer at [**Avintec LLC**](https://avintec.ru/)
+Kazan, Russia
+<br />
+February 2013 – October 2013
 
-Mirrico is a group of companies working in chemical/oil industry. I was the one and only developer worked on the oil pipeline monitoring project.
+**Terminal for collecting feedback from clinic patients**
+<br />
+(*C#, Mono, GtkSharp, SQLite*)
 
-**Roles**: Software developer, Hardware integrator<br />
-**Technologies**: C/C++, C#, ST programming language, ASP.NET Web Forms, SQL Server
+* Acquired a knowledge about MonoDevelop IDE and GtkSharp GUI Toolkit. Learned how to customize GtkSharp controls
+* A prototype is implemented and tested on real hardware
 
-Things done:
-* Selected a hardware equipment (sensors, controllers, GSM modules, etc.)
-* Built a debug/test environment
+**Integration of Core banking system (CBS) with Oktell telephony platform** [https://oktell.ru]
+<br />
+(*C#, .NET 2.0, ASP.NET MVC*)
+
+* An external .NET-module for Oktell is implemented and injected in the caller’s workflow
+* Implemented a mediator web service between the external Oktell module and CBS
+* The solution was used in one real promotion campaign of the bank
+
+---
+### Software Developer at **Interface LLC**
+Kazan, Russia
+<br />
+November 2011 – February 2013
+
+**Accounting system for the State Inspectorate of Road Traffic Safety**
+<br />
+(*C#, ASP.NET Web Forms, Windows Forms, Oracle Database*)
+
+The system is designed and implemented from scratch, deployed in the Inspectorate’s data center.
+
+Main functionalities:
+* Register a data about road traffic safety related events hosted/managed by the Inspectorate
+* Register a data about road accidents
+* Build analytical reports (trend lines, correlation between events and accidents, etc.)
+
+---
+### Software Developer at [**Mirrico LLC**](https://mirrico.ru/)
+Kazan, Russia
+<br />
+June 2011 – November 2011
+
+**Oil pipelines monitoring system**
+<br />
+(*C, C++, C#, ASP.NET Web Forms, SQL Server*)
+
+* Hardware equipment is selected and integrated with each other (sensors, controllers, GSM modules, etc.)
+* Debug and test environment is built
+
+---
+### Developer at **Experimental Design Bureau named after M. P. Simonov** (ex. SOKOL)
+Kazan, Russia
+<br />
+September 2005 – May 2011
+
+**Unmanned aircraft vehicle modification**
+<br />
+(*C, C++, WinForms*)
+
+* The old analog control system is redesigned and implemented using digital components
+* Implemented communication protocol between onboard sub-systems via COM port
+* Implemented desktop software for onboard sub-systems testing
+
+The UAV is successfully modified, passed a series of acceptance tests, and obtained an acceptance certificate.
+
+## Key skills
+C#, .NET Framework, .NET Core, Visual Basic .NET, WPF, WCF, MSMQ, ASP.NET, Windows Forms,
+SQL Server, Entity Framework, ADO.NET.
+
+## Other skills
+React, Golang, MongoDB, WiX installer
+
+## Exams and certifications
+
+* Introduction to MongoDB; Using MongoDB with C#
+* Microsoft Exam 70-483: Programming in C#
+* Microsoft Course 20487: Developing Windows Azure and Web Service
+* Microsoft Course 10263A: Developing WCF Solution with MS Visual Studio 2010
