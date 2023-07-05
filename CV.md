@@ -19,7 +19,7 @@ I’m a software and solution developer with focus on .NET and related technolog
 
 **The cTrader trading platform** [https://ctrader.com]
 <br />
-<sup>(*C#, .NET Core, WPF, NET Framework, TDD*)</sup>
+(*C#, .NET Core, WPF, NET Framework, TDD*)
 
 * Design and development of new features
 * Bug fixing
@@ -32,7 +32,7 @@ I’m a software and solution developer with focus on .NET and related technolog
 
 **Retail POS (Point of Sale, Cashier workplace) solution modification**
 <br />
-<sup>(*C#, Visual Basic .NET, WPF, WCF, MSMQ, Windows Services, MS SQL Server*)</sup>
+(*C#, Visual Basic .NET, WPF, WCF, MSMQ, Windows Services, MS SQL Server*)
 
 * The old POS solution is redesigned, turned into a service-oriented architecture (SOA), and rewritten using the C# language
 * Implemented a few customizations for customers (hardware support and integration, custom payment types and discounts, custom loyalty programs, integration with third-party loyalty providers)
@@ -40,7 +40,7 @@ I’m a software and solution developer with focus on .NET and related technolog
 
 **MVP of mobile POS**
 <br />
-<sup>(*C#, ASP.NET Web API, Android, Xamarin Forms, FreshMvvm*)</sup>
+(*C#, ASP.NET Web API, Android, Xamarin Forms, FreshMvvm*)
 
 * Acquired a knowledge about Xamarin platform
 * Implemented Web API adapters for existing WCF infrastructure
@@ -48,14 +48,14 @@ I’m a software and solution developer with focus on .NET and related technolog
 
 **MVP of Self-Checkout terminal (based on modified POS)**
 <br />
-<sup>(*React, Electron*)</sup>
+(*React, Electron*)
 
 * Acquired a knowledge about React library and Redux
 * An MVP is implemented (previously implemented Web API adapters are reused)
 
 **Device control system for a federal holding company**
 <br />
-<sup>(*C#, ASP.NET Web API, Entity Framework Core, MS SQL Server, Windows Driver Kit*)</sup>
+(*C#, ASP.NET Web API, Entity Framework Core, MS SQL Server, Windows Driver Kit*)
 
 The business task is to apply policies of external devices usage (printers, USB drives, etc.) to computers of the company. The system should provide flexible set of rules: allow/prohibit devices by device type, user role/group, etc.
 
@@ -64,7 +64,7 @@ The business task is to apply policies of external devices usage (printers, USB 
 
 **Maintaining of a medications supplier’s order system**
 <br />
-<sup>(*C#, BizTalk*)</sup>
+(*C#, BizTalk*)
 
 * Acquired a knowledge about BizTalk specific development
 * Implemented a few integrations with newly attracted pharmacies
@@ -75,14 +75,14 @@ The business task is to apply policies of external devices usage (printers, USB 
 
 **Terminal for collecting feedback from clinic patients**
 <br />
-<sup>(*C#, Mono, GtkSharp, SQLite*)</sup>
+(*C#, Mono, GtkSharp, SQLite*)
 
 * Acquired a knowledge about MonoDevelop IDE and GtkSharp GUI Toolkit. Learned how to customize GtkSharp controls
 * A prototype is implemented and tested on real hardware
 
 **Integration of Core banking system (CBS) with Oktell telephony platform** [https://oktell.ru]
 <br />
-<sup>(*C#, .NET 2.0, ASP.NET MVC*)</sup>
+(*C#, .NET 2.0, ASP.NET MVC*)
 
 * An external .NET-module for Oktell is implemented and injected in the caller’s workflow
 * Implemented a mediator web service between the external Oktell module and CBS
@@ -94,7 +94,7 @@ The business task is to apply policies of external devices usage (printers, USB 
 
 **Accounting system for the State Inspectorate of Road Traffic Safety**
 <br />
-<sup>(*C#, ASP.NET Web Forms, Windows Forms, Oracle Database*)</sup>
+(*C#, ASP.NET Web Forms, Windows Forms, Oracle Database*)
 
 The system is designed and implemented from scratch, deployed in the Inspectorate’s data center.
 
@@ -109,7 +109,7 @@ Main functionalities:
 
 **Oil pipelines monitoring system**
 <br />
-<sup>(*C, C++, C#, ASP.NET Web Forms, SQL Server*)</sup>
+(*C, C++, C#, ASP.NET Web Forms, SQL Server*)
 
 * Hardware equipment is selected and integrated with each other (sensors, controllers, GSM modules, etc.)
 * Debug and test environment is built
@@ -120,7 +120,7 @@ Main functionalities:
 
 **Unmanned aircraft vehicle modification**
 <br />
-<sup>(*C, C++, WinForms*)</sup>
+(*C, C++, WinForms*)
 
 * The old analog control system is redesigned and implemented using digital components
 * Implemented communication protocol between onboard sub-systems via COM port
