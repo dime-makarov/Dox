@@ -17,6 +17,14 @@ I’m a software and solution developer with focus on .NET and related technolog
 ### Senior Software Developer at [**Spotware Systems Ltd**](https://spotware.com)
 <sup>March 2021 – now, Limassol, Cyprus</sup>
 
+**Broker’s CRM system**
+<br />
+(*C#, ASP.NET MVC, Entity Framework, Razor, jQuery, MS SQL Server*)
+
+* Improving performance
+* Integrating with trading platforms
+* Reworking code base, introducing unit tests
+
 **The cTrader trading platform** [https://ctrader.com]
 <br />
 (*C#, .NET Core, WPF, NET Framework, TDD*)
